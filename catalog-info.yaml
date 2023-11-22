@@ -24,4 +24,4 @@ spec:
   apiConsumedBy:
     - backstage-demo
   definition:
-    $text: schema.gql
+    $text: https://github.com/brodo/backspericments/blob/main/schema.gql
